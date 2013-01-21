@@ -12,6 +12,7 @@ public final class R {
     }
     public static final class color {
         public static final int BG_Color=0x7f060000;
+        public static final int Color_Text=0x7f060001;
     }
     public static final class dimen {
         public static final int padding_large=0x7f040002;
@@ -23,7 +24,9 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int menu_settings=0x7f090000;
+        public static final int button1=0x7f090001;
+        public static final int menu_settings=0x7f090002;
+        public static final int textView1=0x7f090000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -32,6 +35,7 @@ public final class R {
         public static final int activity_main=0x7f080000;
     }
     public static final class string {
+        public static final int Call_Button=0x7f050004;
         public static final int app_name=0x7f050000;
         public static final int hello_world=0x7f050001;
         public static final int menu_settings=0x7f050002;

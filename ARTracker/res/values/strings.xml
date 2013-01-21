@@ -1,9 +1,11 @@
 <resources>
 
     <string name="app_name">ARTracker</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Call : 713 944 8958</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
     <color name="BG_Color">#000000</color>
+    <color name="Color_Text">#FFF</color>
+    <string name="Call_Button">Call</string>
 
 </resources>
